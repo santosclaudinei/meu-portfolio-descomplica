@@ -16,7 +16,10 @@ Licensed under the [MIT license](LICENSE).
 
 ## Autor
 
+Alteração realizada
+
 <b>Claudinei Santos</b>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Claudinei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudinei-santos-ti/)](https://www.linkedin.com/in/claudinei-santos-ti/)
 [![Gmail Badge](https://img.shields.io/badge/-santos.devclaudinei@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:santos.devclaudinei@gmail.com)](mailto:santos.devclaudinei@gmail.com)
+
